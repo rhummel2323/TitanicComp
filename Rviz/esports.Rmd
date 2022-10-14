@@ -1,6 +1,8 @@
 ---
 title: "sSports Viz"
-output: html_notebook
+output:
+  pdf_document: default
+  html_notebook: default
 ---
 
 ```{r echo=FALSE}
